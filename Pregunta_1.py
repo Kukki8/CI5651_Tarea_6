@@ -124,6 +124,6 @@ class Treap:
 # Ejemplo de prueba
 A = [8,7,3,4,2,1,9]
 t = Treap(A)
-t.imprimir_treap()
 t.multiswap(2,5)
+
 t.imprimir_treap()
